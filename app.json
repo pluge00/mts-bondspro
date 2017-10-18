@@ -1,0 +1,24 @@
+{
+    "devtools_port": 9090,
+    "startup_app": {
+        "name": "MTS BondsPro",
+        "description": "MTS Bonds Pro",
+        "url": "https://www.mtsbondspro.com",
+        "uuid": "MTSBondsPro-bc1qfha8cjod7ifxc6gqilik9",
+        "autoShow": true,
+        "preload": ""
+    },
+    "runtime": {
+        "arguments": "",
+        "version": "community"
+    },
+    "shortcut": {
+        "company": "MTS BondsPro",
+        "description": "MTS BondsPro",
+        "name": "MTS BondsPro",
+        "target": [
+            "desktop",
+            "automatic-startup"
+        ]
+    }
+}
